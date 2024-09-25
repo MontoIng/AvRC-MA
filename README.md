@@ -7,3 +7,5 @@ Avión RC - Monitoreo Ambiental
                     - Código del Avión.
                     - Código para calibrar el motor.
                     - Librería BME280.
+- Se organizó por carpeta los códigos, diseños (muestras - evidencias), documentos y PCBs.
+- Se subieron los documentos respectivos a las carpetas.
